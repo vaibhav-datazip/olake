@@ -10,6 +10,8 @@ type Config interface {
 	Validate() error
 }
 
+// testing dest change
+
 type Write = func(ctx context.Context, channel <-chan types.Record) error
 type FlattenFunction = func(record types.Record) (types.Record, error)
 
