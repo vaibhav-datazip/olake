@@ -248,3 +248,5 @@ Check out our [Bounty Program](https://olake.io/docs/community/issues-and-prs#go
 * To contribute to the **UI**, visit the [OLake UI Repository](https://github.com/datazip-inc/olake-ui).
 * To contribute to the **OLake Helm**, visit the [OLake Helm Repository](https://github.com/datazip-inc/olake-helm).
 * To contribute to our **website and documentation**, visit the [Olake Docs Repository](https://github.com/datazip-inc/olake-docs/).
+
+<!-- gate test: green path -->
